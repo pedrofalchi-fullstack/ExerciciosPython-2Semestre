@@ -1,4 +1,4 @@
-# Criando as 3 listas vazias
+# Criando as 3 listas vazias:
 lista_numeros = []
 lista_pares = []
 lista_impares = []
